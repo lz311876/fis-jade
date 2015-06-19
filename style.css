@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+img{
+	width: 100%;
+}
+
+.replay-btn{
+	width: 40%;
+}
+
+p{
+	display: block;
+	text-align: center;
+	padding: 5px 0;
+	color: #fcf1d4;
+}
+
+p.first{
+	margin-top: 20px;
+}
+
+.link-wrap{
+	background-color: #c83c2c;
+	padding: 50px 0;
+	text-align: center;
+}
